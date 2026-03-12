@@ -7,3 +7,4 @@ playzone_ratings.py
 - Calculated average ratings
 - Looping through key-value pairs
 - Used max, min methods
+- Mini challenges
